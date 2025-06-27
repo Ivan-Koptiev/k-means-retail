@@ -51,7 +51,7 @@ pip install pandas numpy seaborn matplotlib scikit-learn
 
 Copy the repository:
 ```bash
-git clone "https://github.com/Sat1x/k-means-retail"
+git clone "https://github.com/Ivan-Koptiev/k-means-retail"
 ```
 
 Run:
